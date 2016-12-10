@@ -50,4 +50,5 @@ Cookie中记载的资料相有限，Cookie是安全的
 
 6.生成图形化界面，使其用户体验更友好
 
-感谢让我入门并成功执行的网址>http://blog.csdn.net/bo_wen_/article/details/50868339
+感谢让我入门并成功执行的网址
+>http://blog.csdn.net/bo_wen_/article/details/50868339
