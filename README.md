@@ -52,3 +52,18 @@ Cookie中记载的资料相有限，Cookie是安全的
 
 感谢让我入门并成功执行的网址
 >http://blog.csdn.net/bo_wen_/article/details/50868339
+
+#December 12, 2016
+
+###JavaScript 笔记
+因为网景开发了JavaScript，一年后微软又模仿JavaScript开发了JScript，为了让JavaScript成为全球标准，几个公司联合ECMA（European Computer Manufacturers Association）组织定制了JavaScript语言的标准，被称为ECMAScript标准。
+
+所以简单说来就是，ECMAScript是一种语言标准，而JavaScript是网景公司对ECMAScript标准的一种实现。
+
+最新版ECMAScript 6标准（简称ES6）已经在2015年6月正式发布
+
+JavaScript严格区分大小写，如果弄错了大小写，程序将报错或者运行不正常
+
+这个特殊的Number与所有其他值都不相等，包括它自己：  NaN === NaN; // false
+
+唯一能判断NaN的方法是通过isNaN()函数：  isNaN(NaN); // true
