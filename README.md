@@ -102,3 +102,11 @@ JavaScript严格区分大小写，如果弄错了大小写，程序将报错或�
 
 ####修正
 以上判断可以归纳为： 如果Id 和Name 都相等的时候，就可以直接进行跳转，而其他情况就全部为else的情况
+
+#December 14, 2016
+
+### gulp 入门
+
+首先安装**nodejs**,然后通过nodejs的**npm全局安装**和**项目安装gulp**,其次在项目里安装所需要的**gulp插件**,然后新建gulp的配置文件**gulpfile.js**并写好配置信息（定义gulp任务）,最后通过**命令提示符**运行gulp任务即可。
+
+安装nodejs -> 全局安装gulp -> 项目安装gulp以及gulp插件 -> 配置gulpfile.js -> 运行任务
