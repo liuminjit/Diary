@@ -151,3 +151,13 @@ localStorage 在所有同源窗口中**都是共享的；
 cookie也是在所有同源窗口中**都是共享的。
 
 Web Storage 支持事件通知机制，可以将数据更新的通知发送给监听者。Web Storage 的 api 接口使用更方便。
+
+#December 28, 2016
+
+### JSON.stringify 语法实例
+
+作用：这个函数的作用主要是为了系列化对象的。 
+
+就是说把原来是对象的类型转换成字符串类型（或者更确切的说是json类型的）
+
+JSON.stringify()，这是ECMAScript5新增的方法
