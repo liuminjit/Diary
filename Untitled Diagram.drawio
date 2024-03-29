@@ -1,9 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2024-03-29T12:21:38.994Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="5SZ9WdFHkzpalIgjCRmC" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-29T12:41:48.108Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="VTSlHBJzihzotOk6k1d9" version="21.6.1" type="github">
   <diagram id="wVUrk-VOIfz6jI1l0MWA" name="第 1 页">
     <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qqFJtFTauXBRHVcuxRNp-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;昶晨和文沛的新家装修计划&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacingLeft=20;spacingBottom=20;spacingRight=20;spacingTop=20;fontFamily=Georgia;" vertex="1" parent="1">
+          <mxGeometry x="660" y="160" width="280" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qqFJtFTauXBRHVcuxRNp-7" value="目前进展" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qqFJtFTauXBRHVcuxRNp-9" value="总计划" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qqFJtFTauXBRHVcuxRNp-10" value="1. 阳台封窗" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="340" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qqFJtFTauXBRHVcuxRNp-11" value="2. 阳台通铺" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="510" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qqFJtFTauXBRHVcuxRNp-12" value="3. 全屋定制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="680" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qqFJtFTauXBRHVcuxRNp-13" value="4. 成品家具" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qqFJtFTauXBRHVcuxRNp-14" value="5. 全屋电器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qqFJtFTauXBRHVcuxRNp-16" value="6. 入住前准备" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qqFJtFTauXBRHVcuxRNp-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qqFJtFTauXBRHVcuxRNp-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qqFJtFTauXBRHVcuxRNp-19" value="床" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qqFJtFTauXBRHVcuxRNp-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
