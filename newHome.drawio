@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-02T09:11:50.745Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="eVlceiphXvArCo38jUx4" version="24.2.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-27T17:24:43.564Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="5k0WmXx3KTUUcZRjO9M3" version="24.2.5" type="github" pages="2">
   <diagram id="mMT2B7IPSLqFw86a7ch0" name="总规划">
-    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1562" dy="810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,7 +16,7 @@
         <mxCell id="d26VpmdbgYNNtqfkizbk-4" value="1. 阳台封窗" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="350" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="d26VpmdbgYNNtqfkizbk-5" value="2. 阳台通铺" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="d26VpmdbgYNNtqfkizbk-5" value="2. 阳台通铺" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="520" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d26VpmdbgYNNtqfkizbk-6" value="3. 全屋定制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -116,7 +116,7 @@
         <mxCell id="N8o3hWcKYE_QhNW0NXMh-25" value="6.1&amp;nbsp; 甲醛检测" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1200" y="1180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sB_AcNatxQHHlztGDwmN-1" value="3.4 房产证领取" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sB_AcNatxQHHlztGDwmN-1" value="3.4 房产证领取" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="690" y="1450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
