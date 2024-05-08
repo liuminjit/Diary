@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-27T17:31:59.927Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="ARgyb67yZYHsPhRNQ3e5" version="24.2.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-08T14:20:45.757Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="EvYucOdATxA77vgTi9N2" version="24.3.1" type="github" pages="2">
   <diagram id="mMT2B7IPSLqFw86a7ch0" name="总规划">
     <mxGraphModel dx="1562" dy="810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="d26VpmdbgYNNtqfkizbk-5" value="2. 阳台通铺" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="520" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="d26VpmdbgYNNtqfkizbk-6" value="3. 全屋定制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="d26VpmdbgYNNtqfkizbk-6" value="3. 全屋定制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="690" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d26VpmdbgYNNtqfkizbk-7" value="4. 成品家具" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -34,16 +34,16 @@
         <mxCell id="d26VpmdbgYNNtqfkizbk-10" value="2.1 阳台水电修改" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="520" y="1180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="d26VpmdbgYNNtqfkizbk-11" value="2.2 阳台电器预留" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="d26VpmdbgYNNtqfkizbk-11" value="2.2 阳台电器预留" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="520" y="1270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d26VpmdbgYNNtqfkizbk-12" value="4.1 床铺选购" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="860" y="1180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="d26VpmdbgYNNtqfkizbk-13" value="3.1 尺寸预留" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="d26VpmdbgYNNtqfkizbk-13" value="3.1 尺寸预留" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="690" y="1180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="N8o3hWcKYE_QhNW0NXMh-1" value="3.2 电器选购" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="N8o3hWcKYE_QhNW0NXMh-1" value="3.2 电器选购" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="690" y="1270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="N8o3hWcKYE_QhNW0NXMh-2" value="4.2 沙发选购" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -123,99 +123,99 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kdJeROLduSGKQ8txdP4E" name="电器">
-    <mxGraphModel dx="744" dy="386" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1562" dy="810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Maw9CUQnLrmOifzil1Xr-16" value="Assets" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#98bf21;fillColor=#A7C942;shadow=1;" vertex="1" parent="1">
+        <mxCell id="Maw9CUQnLrmOifzil1Xr-16" value="Assets" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#98bf21;fillColor=#A7C942;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="350" width="280" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="Maw9CUQnLrmOifzil1Xr-17" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" vertex="1" parent="Maw9CUQnLrmOifzil1Xr-16">
+        <mxCell id="Maw9CUQnLrmOifzil1Xr-17" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" parent="Maw9CUQnLrmOifzil1Xr-16" vertex="1">
           <mxGeometry width="280" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="Maw9CUQnLrmOifzil1Xr-18" value="电器选择" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="Maw9CUQnLrmOifzil1Xr-17">
+        <mxCell id="Maw9CUQnLrmOifzil1Xr-18" value="电器选择" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" parent="Maw9CUQnLrmOifzil1Xr-17" vertex="1">
           <mxGeometry width="93" height="33" as="geometry">
             <mxRectangle width="93" height="33" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Maw9CUQnLrmOifzil1Xr-19" value="珠海家具" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="Maw9CUQnLrmOifzil1Xr-17">
+        <mxCell id="Maw9CUQnLrmOifzil1Xr-19" value="珠海家具" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" parent="Maw9CUQnLrmOifzil1Xr-17" vertex="1">
           <mxGeometry x="93" width="94" height="33" as="geometry">
             <mxRectangle width="94" height="33" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Maw9CUQnLrmOifzil1Xr-20" value="佛山家具" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="Maw9CUQnLrmOifzil1Xr-17">
+        <mxCell id="Maw9CUQnLrmOifzil1Xr-20" value="佛山家具" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" parent="Maw9CUQnLrmOifzil1Xr-17" vertex="1">
           <mxGeometry x="187" width="93" height="33" as="geometry">
             <mxRectangle width="93" height="33" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Maw9CUQnLrmOifzil1Xr-21" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" vertex="1" parent="Maw9CUQnLrmOifzil1Xr-16">
+        <mxCell id="Maw9CUQnLrmOifzil1Xr-21" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" parent="Maw9CUQnLrmOifzil1Xr-16" vertex="1">
           <mxGeometry y="33" width="280" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="Maw9CUQnLrmOifzil1Xr-22" value="电视" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="Maw9CUQnLrmOifzil1Xr-21">
+        <mxCell id="Maw9CUQnLrmOifzil1Xr-22" value="电视" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" parent="Maw9CUQnLrmOifzil1Xr-21" vertex="1">
           <mxGeometry width="93" height="32" as="geometry">
             <mxRectangle width="93" height="32" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Maw9CUQnLrmOifzil1Xr-23" value="床/床垫" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="Maw9CUQnLrmOifzil1Xr-21">
+        <mxCell id="Maw9CUQnLrmOifzil1Xr-23" value="床/床垫" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" parent="Maw9CUQnLrmOifzil1Xr-21" vertex="1">
           <mxGeometry x="93" width="94" height="32" as="geometry">
             <mxRectangle width="94" height="32" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Maw9CUQnLrmOifzil1Xr-24" value="床/床垫" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="Maw9CUQnLrmOifzil1Xr-21">
+        <mxCell id="Maw9CUQnLrmOifzil1Xr-24" value="床/床垫" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" parent="Maw9CUQnLrmOifzil1Xr-21" vertex="1">
           <mxGeometry x="187" width="93" height="32" as="geometry">
             <mxRectangle width="93" height="32" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Maw9CUQnLrmOifzil1Xr-25" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=inherit;fillColor=#EAF2D3;" vertex="1" parent="Maw9CUQnLrmOifzil1Xr-16">
+        <mxCell id="Maw9CUQnLrmOifzil1Xr-25" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=inherit;fillColor=#EAF2D3;" parent="Maw9CUQnLrmOifzil1Xr-16" vertex="1">
           <mxGeometry y="65" width="280" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="Maw9CUQnLrmOifzil1Xr-26" value="洗烘套装" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="Maw9CUQnLrmOifzil1Xr-25">
+        <mxCell id="Maw9CUQnLrmOifzil1Xr-26" value="洗烘套装" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" parent="Maw9CUQnLrmOifzil1Xr-25" vertex="1">
           <mxGeometry width="93" height="31" as="geometry">
             <mxRectangle width="93" height="31" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Maw9CUQnLrmOifzil1Xr-27" value="沙发" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="Maw9CUQnLrmOifzil1Xr-25">
+        <mxCell id="Maw9CUQnLrmOifzil1Xr-27" value="沙发" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" parent="Maw9CUQnLrmOifzil1Xr-25" vertex="1">
           <mxGeometry x="93" width="94" height="31" as="geometry">
             <mxRectangle width="94" height="31" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Maw9CUQnLrmOifzil1Xr-28" value="沙发" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="Maw9CUQnLrmOifzil1Xr-25">
+        <mxCell id="Maw9CUQnLrmOifzil1Xr-28" value="沙发" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" parent="Maw9CUQnLrmOifzil1Xr-25" vertex="1">
           <mxGeometry x="187" width="93" height="31" as="geometry">
             <mxRectangle width="93" height="31" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Maw9CUQnLrmOifzil1Xr-29" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" vertex="1" parent="Maw9CUQnLrmOifzil1Xr-16">
+        <mxCell id="Maw9CUQnLrmOifzil1Xr-29" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" parent="Maw9CUQnLrmOifzil1Xr-16" vertex="1">
           <mxGeometry y="96" width="280" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="Maw9CUQnLrmOifzil1Xr-30" value="冰箱" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="Maw9CUQnLrmOifzil1Xr-29">
+        <mxCell id="Maw9CUQnLrmOifzil1Xr-30" value="冰箱" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" parent="Maw9CUQnLrmOifzil1Xr-29" vertex="1">
           <mxGeometry width="93" height="33" as="geometry">
             <mxRectangle width="93" height="33" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Maw9CUQnLrmOifzil1Xr-31" value="餐桌" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="Maw9CUQnLrmOifzil1Xr-29">
+        <mxCell id="Maw9CUQnLrmOifzil1Xr-31" value="餐桌" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" parent="Maw9CUQnLrmOifzil1Xr-29" vertex="1">
           <mxGeometry x="93" width="94" height="33" as="geometry">
             <mxRectangle width="94" height="33" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Maw9CUQnLrmOifzil1Xr-32" value="餐桌" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="Maw9CUQnLrmOifzil1Xr-29">
+        <mxCell id="Maw9CUQnLrmOifzil1Xr-32" value="餐桌" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" parent="Maw9CUQnLrmOifzil1Xr-29" vertex="1">
           <mxGeometry x="187" width="93" height="33" as="geometry">
             <mxRectangle width="93" height="33" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Maw9CUQnLrmOifzil1Xr-33" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=inherit;fillColor=#EAF2D3;" vertex="1" parent="Maw9CUQnLrmOifzil1Xr-16">
+        <mxCell id="Maw9CUQnLrmOifzil1Xr-33" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=inherit;fillColor=#EAF2D3;" parent="Maw9CUQnLrmOifzil1Xr-16" vertex="1">
           <mxGeometry y="129" width="280" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="Maw9CUQnLrmOifzil1Xr-34" value="扫地机" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="Maw9CUQnLrmOifzil1Xr-33">
+        <mxCell id="Maw9CUQnLrmOifzil1Xr-34" value="扫地机" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" parent="Maw9CUQnLrmOifzil1Xr-33" vertex="1">
           <mxGeometry width="93" height="31" as="geometry">
             <mxRectangle width="93" height="31" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Maw9CUQnLrmOifzil1Xr-35" value="升降桌" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="Maw9CUQnLrmOifzil1Xr-33">
+        <mxCell id="Maw9CUQnLrmOifzil1Xr-35" value="升降桌" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" parent="Maw9CUQnLrmOifzil1Xr-33" vertex="1">
           <mxGeometry x="93" width="94" height="31" as="geometry">
             <mxRectangle width="94" height="31" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Maw9CUQnLrmOifzil1Xr-36" value="升降桌" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="Maw9CUQnLrmOifzil1Xr-33">
+        <mxCell id="Maw9CUQnLrmOifzil1Xr-36" value="升降桌" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" parent="Maw9CUQnLrmOifzil1Xr-33" vertex="1">
           <mxGeometry x="187" width="93" height="31" as="geometry">
             <mxRectangle width="93" height="31" as="alternateBounds" />
           </mxGeometry>
