@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-27T17:38:59.068Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="ZPLx5ahzVhIewWgiYMih" version="24.3.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-05-27T17:39:37.825Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="odRm0fkHB55ta6dTAp7e" version="24.3.1" type="github" pages="3">
   <diagram id="mMT2B7IPSLqFw86a7ch0" name="总规划">
     <mxGraphModel dx="1562" dy="810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -118,6 +118,9 @@
         </mxCell>
         <mxCell id="sB_AcNatxQHHlztGDwmN-1" value="3.4 房产证领取" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="690" y="1450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1O0c8KH5KS1N0MZdPnVY-1" value="4.4 床垫选购" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="1450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
