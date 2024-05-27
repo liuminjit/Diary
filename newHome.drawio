@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-27T17:36:58.107Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="sAGtZRR1xgzfCJK3Jsr0" version="24.3.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-05-27T17:37:46.977Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="pNHsq8iPIpRBd8nhJfaf" version="24.3.1" type="github" pages="3">
   <diagram id="mMT2B7IPSLqFw86a7ch0" name="总规划">
     <mxGraphModel dx="1562" dy="810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -366,6 +366,9 @@
           <mxGeometry x="385" width="175" height="56" as="geometry">
             <mxRectangle width="175" height="56" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="uhVC9_07cogCuleVRzVO-1" value="洗内衣裤的" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="778" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
