@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-15T11:23:12.151Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="bpKuprwdzIcsqVL1B_z7" version="24.4.14" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-07-15T14:25:33.766Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="jyKpxkKBRiIlbYZ1uCWp" version="24.6.5" type="github" pages="5">
   <diagram id="mMT2B7IPSLqFw86a7ch0" name="总规划">
     <mxGraphModel dx="1562" dy="810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,22 +22,22 @@
         <mxCell id="d26VpmdbgYNNtqfkizbk-6" value="3. 全屋定制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="690" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="d26VpmdbgYNNtqfkizbk-7" value="4. 成品家具" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="d26VpmdbgYNNtqfkizbk-7" value="4. 成品家具" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="860" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="d26VpmdbgYNNtqfkizbk-8" value="5. 全屋电器" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="d26VpmdbgYNNtqfkizbk-8" value="5. 全屋电器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1030" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d26VpmdbgYNNtqfkizbk-9" value="6. 入住准备" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1200" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="d26VpmdbgYNNtqfkizbk-10" value="2.1 阳台水电修改" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="d26VpmdbgYNNtqfkizbk-10" value="2.1 阳台水电修改" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="520" y="1180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d26VpmdbgYNNtqfkizbk-11" value="2.2 阳台电器预留" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="520" y="1270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="d26VpmdbgYNNtqfkizbk-12" value="4.1 床铺选购" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="d26VpmdbgYNNtqfkizbk-12" value="4.1 床铺选购" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="860" y="1180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d26VpmdbgYNNtqfkizbk-13" value="3.1 尺寸预留" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -46,7 +46,7 @@
         <mxCell id="N8o3hWcKYE_QhNW0NXMh-1" value="3.2 电器选购" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="690" y="1270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="N8o3hWcKYE_QhNW0NXMh-2" value="4.2 沙发选购" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="N8o3hWcKYE_QhNW0NXMh-2" value="4.2 沙发选购" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="860" y="1270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="N8o3hWcKYE_QhNW0NXMh-3" value="4.3 餐桌选购" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -55,7 +55,7 @@
         <mxCell id="N8o3hWcKYE_QhNW0NXMh-4" value="3.3 电竞房规划" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="690" y="1360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="N8o3hWcKYE_QhNW0NXMh-5" value="5.1 基础电器" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="N8o3hWcKYE_QhNW0NXMh-5" value="5.1 基础电器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1030" y="1180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="N8o3hWcKYE_QhNW0NXMh-6" value="5.2 智能电器" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
